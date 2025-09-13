@@ -10,8 +10,8 @@
 </p>
 
 **🎓 Dongguk University** <br/>
- *Management Information Systems*</br>
- *Data Science (AI Software Convergence) - Double Major*
+ *경영정보학과 - 주전공*</br>
+ *데이터사이언스전공 (AI소프트웨어융합학부) - 복수전공*
 
 </div>
 
