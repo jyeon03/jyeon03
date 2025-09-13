@@ -1,61 +1,89 @@
-<!-- 상단 배너 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=☺︎%20Jyeon's%20Github%20☺︎&fontSize=45&fontColor=ffffff" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=☺︎%20Baek%20Jiyeon%20☺︎&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-### <p align=center>🎓 동국대학교 경영정보학과 & AI소프트웨어융합학부 데이터사이언스전공 복수전공</p>
+<div align="center">
 
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff"/>
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff"/>
-  
-  <!-- Language -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=fff"/>
+### 💡 About Me
+<p>
+  저의 궁극적인 목표는 어떤 웹페이지든지 구현해낼 수 있는 <strong><mark>UI/UX 프론트엔드 개발자</mark></strong>입니다.</br> 사용자들에게 색다른 경험을 선사할 수 있는 서비스를 만들고 싶다는 꿈을 가지고 있습니다.</br> 일상 속에서 찾아낼 수 있는 소소하지만 중요한 변화, 그리고 그 변화를 통해 고객들이 느낄 수 있는 <strong><mark>새로운 사용자 경험</mark></strong>을 제공하고 싶습니다.
 </p>
 
+**🎓 Dongguk University** <br/>
+ *Management Information Systems*</br>
+ *Data Science (AI Software Convergence) - Double Major*
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyeon03&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeon03&layout=compact&theme=tokyonight" height="160"/>
+  <table>
+    <tr>
+      <th align="center">Frontend</th>
+      <th align="center">Backend</th>
+      <th align="center">Language</th>
+      <th align="center">Data</th>
+    </tr>
+    <tr align="center">
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-## 🔥 Streak
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyeon03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeon03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+</div>
+
+### 🔥 Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyeon03&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyeon03&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 ---
 
-## 💬 Contact
-📫 Email: **bjlyeon240@gmail.com** </br>
-🌐 Portfolio: [Jyeon's 포트폴리오](https://mercurial-helenium-ebc.notion.site/s-53694b74751c4d98a2650d9235fc966b?pvs=74)
+### 💬 Contact
+<p align="center">
+  <a href="mailto:bjlyeon240@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mercurial-helenium-ebc.notion.site/s-53694b74751c4d98a2650d9235fc966b?pvs=74">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  </p>
 
----
 
-<!-- 하단 배너 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=footer"/>
 </p>
