@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E0,100:FFB085&height=200&section=header&text=☺︎%20Baek%20Jiyeon%20☺︎&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E0,100:FFB085&height=200&section=header&text=☺︎%20Jyeon's%20Github%20☺︎&fontSize=45&fontColor=ffffff" />
 
 </p>
 
