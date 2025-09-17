@@ -67,7 +67,7 @@
 
 ### 🔥 Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyeon03&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jyeon03&theme=tokyonight&hide_border=true&ring=ffb347&background=0d1117"/>
 </p>
 
 ---
