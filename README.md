@@ -56,7 +56,6 @@
   </table>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -65,9 +64,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeon03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
 </div>
 
-### 🔥 Streak
+---
+
+### 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jyeon03&theme=tokyonight&hide_border=true&ring=ffb347&background=0d1117"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jyeon03&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+### 📈 Profile Summary
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyeon03&theme=tokyonight"/>
+</p>
+
+---
+
+### 🐍 Snake Game
+<p align="center">
+  <img src="https://github.com/jyeon03/jyeon03/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -81,7 +96,6 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
   </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=footer"/>
