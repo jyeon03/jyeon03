@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=☺︎%20Baek%20Jiyeon%20☺︎&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:8e44ad&height=200&section=header&text=☺︎%20Baek%20Jiyeon%20☺︎&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <div align="center">
