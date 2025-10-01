@@ -64,6 +64,23 @@
 
 ---
 
+## 🚀 Projects
+
+- [공부의 숲 (습관 관리 & 스터디 서비스) - FE](https://github.com/JJOBO/6-StudyForest-1team-FE)
+- [공부의 숲 (습관 관리 & 스터디 서비스) - BE](https://github.com/JJOBO/6-StudyForest-1team-BE)
+- [최애의 포토 (포토카드 구매/판매/교환 서비스) - FE](https://github.com/y10b/6-Photo-2-FE)
+- [최애의 포토 (포토카드 구매/판매/교환 서비스) - BE](https://github.com/y10b/6-Photo-2-BE)
+- [Moving (이사 견적 비교 서비스) - FE](https://github.com/WooGie911/Moving_FE)
+- [Moving (이사 견적 비교 서비스) - BE](https://github.com/WooGie911/Moving_BE)
+- [re; fresh (대학생들을 위한 추억 공유 서비스)](https://github.com/LikeLion-at-DGU/2025-simba-3-leader200nam)
+- [심봤다 (지역 경제를 위한 재고 판매 서비스)](https://github.com/jyeon03/2025-hackathon-5-simbatda-frontend)
+- [동국대학교 2025 가을 축제사이트](https://github.com/LikeLion-at-DGU/2025_fall_festival_front)
+- [BDA 학회원 관리 사이트](https://github.com/BDA-dev1/web-fe)
+
+
+
+---
+
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jyeon03&theme=tokyonight&no-frame=true&margin-w=15"/>
