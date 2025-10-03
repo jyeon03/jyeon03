@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# 👩‍💻 Welcome to Jyeon's GitHub!
-
 📍 **Dongguk University**  
 **경영정보학과 (주전공) · 데이터사이언스전공 (복수전공)**   
 
