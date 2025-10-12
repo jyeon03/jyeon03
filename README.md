@@ -1,17 +1,21 @@
+<!-- 헤더 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:8e44ad&height=200&section=header&text=☺︎%20Baek%20Jiyeon%20☺︎&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFFACD,100:C1E1C1&height=230&section=header&text=Baek%20Jiyeon&fontSize=45&fontColor=5C4033&animation=twinkling&fontAlign=50&fontAlignY=50" />
 </p>
 
+<!-- 학교 및 전공 -->
 <div align="center">
 
-📍 **Dongguk University**  
-**경영정보학과 (주전공) · AI융합학부 데이터사이언스전공 (복수전공)**   
+### ✎ Dongguk Univ
+<strong>Major</strong> - Management Information Systems
+
+<strong>Double Major</strong> - Data Science, College of A.I. Convergence
 
 </div>
 
 ---
 
-## 🛠 Tech Stack
+## Ⅰ. Tech Stack
 <p align="center">
   <table>
     <tr>
@@ -52,43 +56,41 @@
 
 ---
 
-## 📊 GitHub Analytics
+## Ⅱ. GitHub Analytics
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jyeon03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeon03&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=jyeon03&show_icons=true&hide_border=true&border_radius=12&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeon03&layout=compact&hide_border=true&border_radius=12" height="170"/>
 </div>
 
 ---
 
-## 🚀 Projects
+## Ⅲ. Projects
 
-- 🌱 **공부의 숲 (습관 관리 & 스터디 서비스)** — [FE](https://github.com/JJOBO/6-StudyForest-1team-FE) | [BE](https://github.com/JJOBO/6-StudyForest-1team-BE)
-- 📷 **최애의 포토 (포토카드 구매/판매/교환 서비스)** — [FE](https://github.com/y10b/6-Photo-2-FE) | [BE](https://github.com/y10b/6-Photo-2-BE)
-- 🚚 **Moving (이사 견적 비교 서비스)** — [FE](https://github.com/WooGie911/Moving_FE) | [BE](https://github.com/WooGie911/Moving_BE)
-- 🌸 **re; fresh (대학생들을 위한 추억 공유 서비스)** — [FE](https://github.com/LikeLion-at-DGU/2025-simba-3-leader200nam)
-- 🛍 **심봤다 (지역 경제 활성화를 위한 재고 판매 서비스)** — [FE](https://github.com/jyeon03/2025-hackathon-5-simbatda-frontend)
-- 🎪 **동국대학교 2025 가을 축제 사이트** — [FE](https://github.com/LikeLion-at-DGU/2025_fall_festival_front)
-- 💼 **BDA 학회원 관리 사이트** — [FE](https://github.com/BDA-dev1/web-fe)
+- 🌱 **공부의 숲 (습관 관리 & 스터디 서비스)** — [FE](https://github.com/JJOBO/6-StudyForest-1team-FE) | [BE](https://github.com/JJOBO/6-StudyForest-1team-BE)  
+- 📷 **최애의 포토 (포토카드 거래 플랫폼)** — [FE](https://github.com/y10b/6-Photo-2-FE) | [BE](https://github.com/y10b/6-Photo-2-BE)  
+- 🚚 **Moving (이사 견적 비교 서비스)** — [FE](https://github.com/WooGie911/Moving_FE) | [BE](https://github.com/WooGie911/Moving_BE)  
+- 🌸 **re; fresh (대학생 추억 공유 서비스)** — [FE](https://github.com/LikeLion-at-DGU/2025-simba-3-leader200nam)  
+- 🛍 **심봤다 (재고 판매 서비스)** — [FE](https://github.com/jyeon03/2025-hackathon-5-simbatda-frontend)  
+- 🎪 **2025 동국대 가을 축제 사이트** — [FE](https://github.com/LikeLion-at-DGU/2025_fall_festival_front)  
+- 💼 **BDA 학회원 관리 시스템** — [FE](https://github.com/BDA-dev1/web-fe)  
 
 ---
 
-## 🏆 Achievements
+## Ⅳ. Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jyeon03&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jyeon03&theme=flat&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-## 📈 Contribution Summary
+## Ⅴ. Contribution Summary
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyeon03&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyeon03&theme=default"/>
 </p>
 
 ---
 
-## 💬 Contact
+## Ⅵ. Contact
 <p align="center">
   <a href="mailto:bjlyeon240@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
@@ -98,7 +100,7 @@
   </a>
 </p>
 
+<!-- 푸터 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:8e44ad&height=200&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:C1E1C1,100:FFFACD&height=180&section=footer&text=Thanks%20for%20visiting!%20🌼&fontSize=25&fontColor=5C4033&animation=twinkling"/>
 </p>
-
