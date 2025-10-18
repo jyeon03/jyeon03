@@ -76,20 +76,6 @@
 
 ---
 
-## Ⅳ. Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jyeon03&theme=flat&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-## Ⅴ. Contribution Summary
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyeon03&theme=default"/>
-</p>
-
----
-
 ## Ⅵ. Contact
 <p align="center">
   <a href="mailto:bjlyeon240@gmail.com">
