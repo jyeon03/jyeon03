@@ -74,15 +74,7 @@
 
 ---
 
-## Ⅳ. My 잔디
-<p align="center">
-  <!-- 테마 예시: warm, cool, dark -->
-  <img src="http://mazandi.herokuapp.com/api?handle=jyeon03&theme=cool" />
-</p>
-
----
-
-## Ⅴ. Contact
+## Ⅳ. Contact
 <p align="center">
   <a href="mailto:bjlyeon240@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
