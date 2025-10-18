@@ -1,9 +1,7 @@
-<!-- 헤더 배너 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFFACD,100:C1E1C1&height=230&section=header&text=Baek%20Jiyeon&fontSize=45&fontColor=5C4033&animation=twinkling&fontAlign=50&fontAlignY=50" />
 </p>
 
-<!-- 학교 및 전공 -->
 <div align="center">
 
 ### ✎ Dongguk Univ
@@ -76,7 +74,15 @@
 
 ---
 
-## Ⅳ. Contact
+## Ⅳ. My 잔디
+<p align="center">
+  <!-- 테마 예시: warm, cool, dark -->
+  <img src="http://mazandi.herokuapp.com/api?handle=jyeon03&theme=cool" />
+</p>
+
+---
+
+## Ⅴ. Contact
 <p align="center">
   <a href="mailto:bjlyeon240@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
@@ -86,7 +92,6 @@
   </a>
 </p>
 
-<!-- 푸터 배너 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:C1E1C1,100:FFFACD&height=180&section=footer&text=🌼%20Thanks%20for%20visiting%20🌼&fontSize=25&fontColor=5C4033&animation=twinkling"/>
 </p>
