@@ -56,15 +56,7 @@
 
 ---
 
-## Ⅱ. GitHub Analytics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jyeon03&show_icons=true&hide_border=true&border_radius=12&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeon03&layout=compact&hide_border=true&border_radius=12" height="170"/>
-</div>
-
----
-
-## Ⅲ. Projects
+## Ⅱ. Projects
 
 - 🌱 **공부의 숲 (습관 관리 & 스터디 서비스)** — [FE](https://github.com/JJOBO/6-StudyForest-1team-FE) | [BE](https://github.com/JJOBO/6-StudyForest-1team-BE)  
 - 📷 **최애의 포토 (포토카드 거래 플랫폼)** — [FE](https://github.com/y10b/6-Photo-2-FE) | [BE](https://github.com/y10b/6-Photo-2-BE)  
@@ -73,6 +65,14 @@
 - 🛍 **심봤다 (재고 판매 서비스)** — [FE](https://github.com/jyeon03/2025-hackathon-5-simbatda-frontend)  
 - 🎪 **2025 동국대 가을 축제 사이트** — [FE](https://github.com/LikeLion-at-DGU/2025_fall_festival_front)  
 - 💼 **BDA 학회원 관리 시스템** — [FE](https://github.com/BDA-dev1/web-fe)  
+
+---
+
+## Ⅲ. GitHub Analytics
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jyeon03&show_icons=true&hide_border=true&border_radius=12&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeon03&layout=compact&hide_border=true&border_radius=12" height="170"/>
+</div>
 
 ---
 
@@ -102,5 +102,5 @@
 
 <!-- 푸터 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:C1E1C1,100:FFFACD&height=180&section=footer&text=Thanks%20for%20visiting!%20🌼&fontSize=25&fontColor=5C4033&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:C1E1C1,100:FFFACD&height=180&section=footer&text=🌼%20Thanks%20for%20visiting%20🌼&fontSize=25&fontColor=5C4033&animation=twinkling"/>
 </p>
