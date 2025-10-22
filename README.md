@@ -2,18 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFFACD,100:C1E1C1&height=230&section=header&text=Baek%20Jiyeon&fontSize=45&fontColor=5C4033&animation=twinkling&fontAlign=50&fontAlignY=50" />
 </p>
 
-<div align="center">
+<div align="start">
 
-### ✎ Dongguk Univ
+## ✎ Dongguk Univ
 <strong>Major</strong> - Management Information Systems
 
 <strong>Double Major</strong> - Data Science, College of A.I. Convergence
 
 </div>
+<br/>
 
----
-
-## Ⅰ. Tech Stack
+## Tech Stack
 <p align="center">
   <table>
     <tr>
@@ -51,30 +50,38 @@
     </tr>
   </table>
 </p>
+<br/>
 
----
+## Projects
 
-## Ⅱ. Projects
+| 기간 | 프로젝트 | 역할 |
+|------|----------|----|
+| **2024.12.30 ~ 2025.02.15** | 🤖 **모멘텀 (신년 계획 목표 관리 및 성취 지원 서비스) - 🥉우수상** | **DESIGN** |
+| **2025.03.21 ~ 2025.04.10** | 🌱 **공부의 숲 (습관 관리 & 스터디 서비스)** | [FE](https://github.com/JJOBO/6-StudyForest-1team-FE) & [BE](https://github.com/JJOBO/6-StudyForest-1team-BE) |
+| **2025.04.28 ~ 2025.06.30** | 🌸 **re; fresh (대학생 추억 공유 서비스)** | [FE](https://github.com/LikeLion-at-DGU/2025-simba-3-leader200nam) |
+| **2025.05.14 ~ 2025.06.05** | 📷 **최애의 포토 (포토카드 거래 플랫폼)** | [FE](https://github.com/y10b/6-Photo-2-FE) & [BE](https://github.com/y10b/6-Photo-2-BE) |
+| **2025.07.01 ~ 2025.08.18** | 🚚 **Moving (이사 견적 비교 서비스)** | [FE](https://github.com/WooGie911/Moving_FE) & [BE](https://github.com/WooGie911/Moving_BE) |
+| **2025.07.24 ~ 2025.08.25** | 🛍 **심봤다 (재고 판매 서비스)** | [FE](https://github.com/jyeon03/2025-hackathon-5-simbatda-frontend) |
+| **2025.09.06 ~ 2025.09.24** | 🎪 **2025 동국대 가을 축제 사이트** | [FE](https://github.com/LikeLion-at-DGU/2025_fall_festival_front) |
 
-- 🌱 **공부의 숲 (습관 관리 & 스터디 서비스)** — [FE](https://github.com/JJOBO/6-StudyForest-1team-FE) | [BE](https://github.com/JJOBO/6-StudyForest-1team-BE)  
-- 📷 **최애의 포토 (포토카드 거래 플랫폼)** — [FE](https://github.com/y10b/6-Photo-2-FE) | [BE](https://github.com/y10b/6-Photo-2-BE)  
-- 🚚 **Moving (이사 견적 비교 서비스)** — [FE](https://github.com/WooGie911/Moving_FE) | [BE](https://github.com/WooGie911/Moving_BE)  
-- 🌸 **re; fresh (대학생 추억 공유 서비스)** — [FE](https://github.com/LikeLion-at-DGU/2025-simba-3-leader200nam)  
-- 🛍 **심봤다 (재고 판매 서비스)** — [FE](https://github.com/jyeon03/2025-hackathon-5-simbatda-frontend)  
-- 🎪 **2025 동국대 가을 축제 사이트** — [FE](https://github.com/LikeLion-at-DGU/2025_fall_festival_front)  
-- 💼 **BDA 학회원 관리 시스템** — [FE](https://github.com/BDA-dev1/web-fe)  
 
----
+<br/>
 
-## Ⅲ. GitHub Analytics
+## GitHub Analytics
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jyeon03&show_icons=true&hide_border=true&border_radius=12&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeon03&layout=compact&hide_border=true&border_radius=12" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeon03&layout=compact&hide_border=true&border_radius=12" height="170"/>  
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jyeon03&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jyeon03"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
+<br/>
 
----
-
-## Ⅳ. Contact
+## Contact
 <p align="center">
   <a href="mailto:bjlyeon240@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
