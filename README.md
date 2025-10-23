@@ -71,7 +71,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jyeon03&show_icons=true&hide_border=true&border_radius=12&count_private=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeon03&layout=compact&hide_border=true&border_radius=12" height="170"/>  
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jyeon03&utm_content=farm">
+ <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jyeon03&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/jyeon03"
   width="600"
