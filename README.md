@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFFACD,100:C1E1C1&height=230&section=header&text=Baek%20Jiyeon&fontSize=45&fontColor=5C4033&animation=twinkling&fontAlign=50&fontAlignY=50" />
+  <img width="3200" height="800" alt="Frame 1" src="https://github.com/user-attachments/assets/b904459b-cbcb-4a19-ac31-caf1a40d20d3" />
 </p>
 
 <div align="start">
@@ -92,5 +92,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:C1E1C1,100:FFFACD&height=180&section=footer&text=🌼%20Thanks%20for%20visiting%20🌼&fontSize=25&fontColor=5C4033&animation=twinkling"/>
+  <img width="3200" height="800" alt="Frame 2" src="https://github.com/user-attachments/assets/e4e265ac-1ff7-47c0-8dbd-2cf1970f0016" />
 </p>
