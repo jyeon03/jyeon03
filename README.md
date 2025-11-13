@@ -1,6 +1,12 @@
-<p align="center">
-  <img width="3200" height="800" alt="Frame 1" src="https://github.com/user-attachments/assets/b904459b-cbcb-4a19-ac31-caf1a40d20d3" />
-</p>
+<div align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jyeon03&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jyeon03"
+  width="700"
+  height="500"
+/>
+</a>
+</div>
 
 <div align="start">
 
@@ -71,13 +77,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jyeon03&show_icons=true&hide_border=true&border_radius=12&count_private=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeon03&layout=compact&hide_border=true&border_radius=12" height="170"/>  
- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jyeon03&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/jyeon03"
-  width="600"
-  height="300"
-/>
-</a>
 </div>
 <br/>
 
