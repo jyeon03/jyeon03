@@ -1,9 +1,9 @@
 <div align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jyeon03&utm_content=farm">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jyeon03&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/jyeon03"
-  width="700"
-  height="500"
+  width="600"
+  height="300"
 />
 </a>
 </div>
