@@ -73,12 +73,6 @@
 
 <br/>
 
-## GitHub Analytics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jyeon03&show_icons=true&hide_border=true&border_radius=12&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyeon03&layout=compact&hide_border=true&border_radius=12" height="170"/>  
-</div>
-<br/>
 
 ## Contact
 <p align="center">
