@@ -73,6 +73,10 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-stats-phi-six-59.vercel.app/api/top-langs/?username=jyeon03&layout=compact&theme=solarized-light&count_private=true" height="185" />
+  <img src="https://github-readme-stats-phi-six-59.vercel.app/api?username=jyeon03&show_icons=true&count_private=true&theme=solarized-light&hide=stars" height="180"/>
+</div>
 
 ## Contact
 <p align="center">
