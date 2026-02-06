@@ -24,7 +24,7 @@
 <summary><b>Codeit PowerBoost 1th Design </b></summary>
 <br/>
 
-- **Momentum** · Design · 우수상 <sub>`24.12.30–25.02.15`</sub>
+- **Momentum** · [Design](https://github.com/codeit-momentum) · 우수상 <sub>`24.12.30–25.02.15`</sub>
 
 </details>
 
