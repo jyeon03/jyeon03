@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,sqlite" />
 
 ### Language
-<img src="https://skillicons.dev/icons?i=python,java,c,r" />
+<img src="https://skillicons.dev/icons?i=python,java,c" />
 
 ---
 
