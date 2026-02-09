@@ -6,18 +6,6 @@
 
 ---
 
-## SKILLS
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,styledcomponents,sass" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,sqlite" />
-
-### Language
-<img src="https://skillicons.dev/icons?i=python,java,c" />
-
----
-
 ## PROJECTS
 
 <details>
